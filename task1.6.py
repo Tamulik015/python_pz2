@@ -2,6 +2,7 @@ cart_products = int(input('Сколько всего нужно товара: ')
 list_products = []
 num = 1
 
+
 while num <= cart_products:
     name_product = input('Введите название продукта: ')
     price_product = input('Введите цену: ')
