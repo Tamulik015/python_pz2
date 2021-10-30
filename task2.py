@@ -4,6 +4,7 @@ items = []
 num1 = 0
 num2 = 2
 
+
 while number_for_iterations > 0:
     res = array[num1:num2]
     res.reverse()
